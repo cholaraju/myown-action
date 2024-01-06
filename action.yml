@@ -1,0 +1,14 @@
+name: 'Giphy PR Comment'
+description: 'Add a Giphy Comment to new pull requests.'
+inputs:
+  github_token:  # id of input
+    description: 'Github_token'
+    required: true
+  
+outputs:
+  time: # id of output
+    description: 'The time we greeted you'
+runs:
+  using: 'node20'
+  main: 'index.js'
+
