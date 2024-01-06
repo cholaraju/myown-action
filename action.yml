@@ -1,4 +1,4 @@
-name: 'Create custom Comment'
+name: 'Create chola  custom Comment'
 description: 'Add a Giphy Comment to new pull requests.'
 inputs:
   github_token:  # id of input
