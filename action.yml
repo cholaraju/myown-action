@@ -11,6 +11,6 @@ runs:
   using: 'node20'
   main: 'dist/index.js'
 branding:
-  icon: 'smile'
+  icon: 'lock'
   color: 'yellow'
 
